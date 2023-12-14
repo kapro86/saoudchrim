@@ -4,7 +4,7 @@
       "ad_status": "off",
       "ad_type": "admob",
 
-
+      "admob_publisher_id": "pub-1234819124237609",
       "admob_banner_unit_id": "ca-app-pub-1234819124237609/2126224093",
       "admob_interstitial_unit_id": "ca-app-pub-1234819124237609/8500060757",
       "admob_app_open_unit_id": "ca-app-pub-1234819124237609/2032561615",
