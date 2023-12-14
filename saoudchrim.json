@@ -14,13 +14,13 @@
       "startapp_app_id":"209556084" ,
       "applovin_banner_unit_id": "0cddb50bea108adb",
       "applovin_interstitial_unit_id": "2f98338194949e0e",
-      "interstitial_ad_interval": 4
+      "interstitial_ad_interval": 5
 
     }
   ],
   "settings": [
     {
-      "ad_time": "10000",
+      "ad_time": "15000",
       "ad_time_rate": "80",
       "quran_link":"https://server7.mp3quran.net/shur/" ,
       "facebook":"https://m.facebook.com/QoranFull" ,
